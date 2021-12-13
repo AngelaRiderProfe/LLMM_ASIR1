@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>Mi canal RSS ÁngelaRíder</title>
+<link>https://angelariderprofe.github.io/LLMM_ASIR1/</link>
+<description>Canal de información de la profesora</description>
+<item>
+<title>Mi primera noticia</title>
+<link>www.eltiempo.es</link>
+<description>Información del tiempo</description>
+</item>
+<item>
+<title>mi segunda noticia</title>
+<link>www.embargosalobestia.com</link>
+<description>Información de compras</description>
+</item>
+</channel>
+</rss>
